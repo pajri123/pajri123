@@ -8,7 +8,7 @@ I am Pajri Nur Iqrom, people call me Pajri. Find out more about me & feel free t
 
 <a href="https://linkedin.com/in/pajri-nur-iqrom-24422524b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pajri-nur-iqrom-24422524b" height="30" width="40" /></a>
 <a href="https://instagram.com/pajri_231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pajri_231" height="30" width="40" /></a>
-<a href="https://img.shields.io/badge/-pajrivan231@.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pajrivan231@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="pajri_231" height="30" width="40" /></a>
+<a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3AGmail_icon_%25282020%2529.svg&psig=AOvVaw2-zgTEzwcmYz2SfowfWTd6&ust=1696779925665000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLDU2qqk5IEDFQAAAAAdAAAAABAE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">⚡ Languages and Tools:</h3>
