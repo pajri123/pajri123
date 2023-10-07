@@ -3,9 +3,9 @@
 I am Pajri Nur Iqrom, people call me Pajri. Find out more about me & feel free to connect with me here:
 
 ## Connect With me : 
-[![Instagram Badge](https://img.shields.io/badge/-pajri_231-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/pajri_231/)](https://instagram.com/pajri_231)
-[![Gmail Badge](https://img.shields.io/badge/-pajrivan231@.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pajrivan231@gmail.com)](mailto:pajrivan231@gmail.com)
-
+<p align="left">
+<a href="https://instagram.com/pajri_231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pajri_231" height="30" width="40" /></a>
+</p>
 
 ## ⚡ Languages and Tools :
 <h3 align="left">Languages and Tools:</h3>
